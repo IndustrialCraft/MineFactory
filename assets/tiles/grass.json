@@ -1,0 +1,4 @@
+{
+  "id": "mf:grass",
+  "textures": ["assets/textures/grass.png","assets/textures/grass2.png","assets/textures/grass3.png","assets/textures/grass4.png","assets/textures/grass5.png"]
+}

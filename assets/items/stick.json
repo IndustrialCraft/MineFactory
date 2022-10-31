@@ -1,0 +1,7 @@
+{
+  "id": "mf:stick",
+  "name": "stick",
+  "description": "a stick",
+  "stackSize" : 2,
+  "texture": "assets/textures/stick.png"
+}
